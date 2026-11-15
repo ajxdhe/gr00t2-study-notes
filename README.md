@@ -2,6 +2,8 @@
 
 作者：[ajxdhe](https://github.com/ajxdhe)
 
+**Contributors** · ChatGPT 协助查阅资料、整理笔记和核对引用。
+
 一份面向具身智能学习者的中文阅读笔记。以 NVIDIA GR00T 2 白皮书为主线，从世界—动作模型（WAM）的结构讲起，梳理人类视频与机器人数据如何参与训练、技能如何跨身体迁移，以及强化学习和控制系统怎样把模型接到真机上。
 
 **[阅读完整笔记](notes.md)** · [NVIDIA 白皮书](https://research.nvidia.com/labs/gear/gr00t-2/assets/gr00t2_whitepaper.pdf) · [官方项目页](https://research.nvidia.com/labs/gear/gr00t-2/)
